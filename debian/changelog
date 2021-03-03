@@ -1,3 +1,9 @@
+directx-headers (1.0.2-2) UNRELEASED; urgency=medium
+
+  * copyright: The license is essentially Expat, make it so.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Wed, 03 Mar 2021 06:40:09 +0200
+
 directx-headers (1.0.2-1) unstable; urgency=medium
 
   * control: Add an uploader, bump policy to 4.5.1.
