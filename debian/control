@@ -3,7 +3,7 @@ Section: graphics
 Priority: optional
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
 Uploaders: Timo Aaltonen <tjaalton@debian.org>
-Build-Depends: debhelper-compat (= 13),
+Build-Depends: debhelper-compat (= 12),
  meson,
 Standards-Version: 4.5.1
 Homepage: https://github.com/microsoft/DirectX-Headers
